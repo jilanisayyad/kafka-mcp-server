@@ -1,0 +1,4 @@
+fastmcp
+aiokafka
+pydantic
+python-dotenv
